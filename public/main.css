@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+  background-color: lightblue;
+  color: white;
+  padding: 10%;
+}
+
+
+p{
+  padding: 10%;
+  border: solid;
+  border-radius: 2.5%;
+  border-color: red;
+}

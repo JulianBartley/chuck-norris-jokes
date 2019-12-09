@@ -1,5 +1,5 @@
 require 'sinatra'
-# require 'chucknorris'
+require 'chucknorris'
 
 
 get '/' do
